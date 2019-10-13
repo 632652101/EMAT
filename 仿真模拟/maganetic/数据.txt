@@ -1,0 +1,4 @@
+相对磁导率： 4000
+magnet 1 ： 30mm * 30mm  1.2T
+magnet 2 :    in_r = 10 out_r = 15 1.2T
+
